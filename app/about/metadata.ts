@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     title: "Tentang Kami | ResepKu",
     description:
       "Mengenal lebih dekat dengan tim ResepKu dan perjalanan kami berbagi resep masakan Indonesia terbaik",
-    url: "https://www.resepku.com/about",
+    url: "https://gsc.backoffice-tim.web.id/about",
     images: [
       {
         url: "/images/about-resepku.jpg",

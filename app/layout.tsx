@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://www.resepku.com"),
+  metadataBase: new URL("https://gsc.backoffice-tim.web.id"),
   alternates: {
     canonical: "/",
     languages: {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "ResepKu - Koleksi Resep Masakan Indonesia Terlengkap",
     description: "Temukan inspirasi masakan sehari-hari dengan koleksi resep terbaik dari ResepKu.",
-    url: "https://www.resepku.com",
+    url: "https://gsc.backoffice-tim.web.id",
     siteName: "ResepKu",
     locale: "id_ID",
     type: "website",

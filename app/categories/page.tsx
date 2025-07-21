@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Kategori Resep Masakan Indonesia",
     description:
       "Jelajahi resep berdasarkan kategori seperti sarapan, makan siang, makan malam, dan camilan.",
-    url: "https://www.resepku.com/categories",
+    url: "https://gsc.backoffice-tim.web.id/categories",
     images: [
       {
         url: "/images/categories-og.jpg",

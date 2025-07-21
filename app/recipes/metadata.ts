@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "Koleksi Resep Masakan Indonesia",
     description:
       "Jelajahi berbagai resep masakan Indonesia lengkap dengan bahan dan cara membuat. Dari resep tradisional hingga makanan modern.",
-    url: "https://www.resepku.com/recipes",
+    url: "https://gsc.backoffice-tim.web.id/recipes",
     images: [
       {
         url: "/images/recipes-og.jpg",

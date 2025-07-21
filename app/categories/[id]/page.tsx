@@ -130,7 +130,7 @@ export async function generateMetadata({
     openGraph: {
       title: `Resep ${category.name}`,
       description: category.description,
-      url: `https://www.resepku.com/categories/${params.id}`,
+      url: `https://gsc.backoffice-tim.web.id/categories/${params.id}`,
       images: [
         {
           url: category.image,

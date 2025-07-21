@@ -334,7 +334,7 @@ export async function generateMetadata({ params }: { params: { id: string } }): 
     openGraph: {
       title: recipe.title,
       description: recipe.description,
-      url: `https://www.resepku.com/recipes/${params.id}`,
+      url: `https://gsc.backoffice-tim.web.id/recipes/${params.id}`,
       images: [
         {
           url: recipe.image,
